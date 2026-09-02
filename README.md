@@ -20,8 +20,6 @@ The project focuses on creating an interactive navigation menu that remains fixe
 
 📦 No External Frameworks — Built using pure HTML, CSS, and JavaScript.
 
-
-
 ---
 
 🛠️ Technologies Used:
