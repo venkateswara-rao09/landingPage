@@ -38,6 +38,7 @@ Handles the complete visual design, responsive layouts, hover animations, transi
 
 script.js
 Adds interactivity to the navigation bar by detecting scrolling and applying the scrolled class dynamically.
+---
 
 🎯 How the Navigation Works:
 
@@ -51,7 +52,7 @@ An animated underline appears.
 
 The transition happens smoothly using CSS.
 
-
+---
 🖥️ Website Sections:
 
 🏠 Home
