@@ -1,10 +1,10 @@
-🌐 Responsive Landing Page with Interactive Navigation
+🌐 Responsive Landing Page with Interactive Navigation:
 
 A modern and responsive landing page built using HTML, CSS, and JavaScript as part of SkillCraft Technology Task 01.
 
 The project focuses on creating an interactive navigation menu that remains fixed while scrolling and dynamically changes its appearance based on user interaction.
 
-✨ Features
+✨ Features:
 
 📱 Fully Responsive Design — Works smoothly across desktop, tablet, and mobile devices.
 
@@ -24,7 +24,7 @@ The project focuses on creating an interactive navigation menu that remains fixe
 
 ---
 
-🛠️ Technologies Used
+🛠️ Technologies Used:
 
 Technology	Purpose
 
@@ -33,18 +33,15 @@ CSS3	Styling, animations, responsiveness, and layout
 JavaScript	Scroll-based navigation interaction
 
 index.html
-
 Contains the structure of the landing page, including the navigation bar, hero section, About section, Services section, and Contact section.
 
 style.css
-
 Handles the complete visual design, responsive layouts, hover animations, transitions, and navigation styling.
 
 script.js
-
 Adds interactivity to the navigation bar by detecting scrolling and applying the scrolled class dynamically.
 
-🎯 How the Navigation Works
+🎯 How the Navigation Works:
 
 Hover Interaction
 
@@ -57,20 +54,16 @@ An animated underline appears.
 The transition happens smoothly using CSS.
 
 
-🖥️ Website Sections
+🖥️ Website Sections:
 
 🏠 Home
-
 A hero section introducing the website with a call-to-action button.
 
 👨‍💻 About
-
 Provides a brief introduction about the purpose of the website.
 
 ⚙️ Services
-
 Displays the services offered through responsive cards.
 
 📩 Contact
-
 Provides a simple call-to-action for users who want to get in touch.
